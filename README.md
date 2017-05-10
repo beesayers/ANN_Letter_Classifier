@@ -1,6 +1,6 @@
 # Artifical Neural Network - Letter Classifier
 
-#### Libraries
+#### External Libraries
 ---
 - NumPy (from SciPy kit)
 
