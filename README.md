@@ -10,13 +10,13 @@ Train a neural network to correctly classify hand-written letters.
 
 #### Parameters
 ---
-1. Input layer of size 17 (1 for bias, 16 for inputs).
+- Input layer of size 17 (1 for bias, 16 for inputs).
     - Required
-2. Hidden layer of size 70 (1 for bias, 69 for hidden units).
+- Hidden layer of size 70 (1 for bias, 69 for hidden units).
     - Variable
-3. Output layer of size 26 (26 classifiable letters)
+- Output layer of size 26 (26 classifiable letters)
     - Required
-4. Learning rate = .001
+- Learning rate = .001
     - Variable between 0 and 1
 
 #### Methods
