@@ -28,6 +28,7 @@ The neural network does forward propagation by computing the product of inputs a
 Back propagation is performed by finding the gradient of the error and adjusting each individual weight accordingly. This was made infinitely more simple using NumPy from the SciPy kit to perform matrix multiplication.
 
 #### Additional Information
+---
 1. Input:
 The input layer was implemented so input layer unit 1 = feature 1, unit 2 = feature 2, etc.
 It takes feature vectors of length 16 re-scaled to 0-1.
